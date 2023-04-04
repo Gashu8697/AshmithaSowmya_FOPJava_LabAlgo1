@@ -1,1 +1,1 @@
-# AshmithaSowmya_FOPJava_LabAlgo2
+# AshmithaSowmya_FOPJava_LabAlgo1
